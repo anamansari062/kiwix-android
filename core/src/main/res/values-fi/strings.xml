@@ -61,6 +61,7 @@
   <string name="clear_recent_and_tabs_history_dialog">Haluatko varmasti poistaa hakuhistoriasi ja resetoida kaikki aktiiviset välilehdet?</string>
   <string name="delete_recent_search_item">Poista tämä kohde?</string>
   <string name="pref_clear_all_history_title">Tyhjennä historia</string>
+  <string name="pref_permission">Käyttöoikeudet</string>
   <string name="all_history_cleared">Kaikki historia tyhjennetty</string>
   <string name="pref_clear_all_bookmarks_title">Tyhjennä kirjanmerkit</string>
   <string name="clear_all_history_dialog_title">Tyhjennä kaikki historia?</string>
@@ -190,4 +191,6 @@
   <string name="auto">Auto</string>
   <string name="percentage">%d%%</string>
   <string name="search_open_in_new_tab">Avaa uudessa välilehdessä</string>
+  <string name="allowed">Sallittu</string>
+  <string name="not_allowed">Ei sallittu</string>
 </resources>
